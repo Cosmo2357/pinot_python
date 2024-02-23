@@ -64,6 +64,9 @@ http://localhost:9000/help
 http://localhost:9000
 
 
-# Postgres > Debezium > Kafka > Pinot
+# Stargate > Cassandra > Debezium > Kafka > Pinot
 
-# Postgres > Debezium > Kafka >  Elasticsearch
+# Stargate > Cassandra  > Debezium > Kafka >  Elasticsearch
+
+https://stargate.io/
+https://debezium.io/
