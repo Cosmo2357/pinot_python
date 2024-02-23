@@ -63,10 +63,11 @@ http://localhost:9000/help
 ### Pinot UI
 http://localhost:9000
 
+# CDC
+## Stargate > Cassandra or Postgres > Debezium > Kafka > Pinot
 
-# Stargate > Cassandra > Debezium > Kafka > Pinot
-
-# Stargate > Cassandra  > Debezium > Kafka >  Elasticsearch
+## Stargate > Cassandra  or Postgres > Debezium > Kafka >  Elasticsearch
 
 https://stargate.io/
 https://debezium.io/
+https://github.com/provectus/kafka-ui
