@@ -69,5 +69,7 @@ http://localhost:9000
 ## Stargate > Cassandra  or Postgres > Debezium > Kafka >  Elasticsearch
 
 https://stargate.io/
+https://www.datastax.com/
+
 https://debezium.io/
 https://github.com/provectus/kafka-ui
